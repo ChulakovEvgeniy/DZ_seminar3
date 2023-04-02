@@ -5,11 +5,11 @@
 Console.Clear();
 System.Console.WriteLine("Введите число до которого все числа необходимо возвести в куб :");
 int num = int.Parse(Console.ReadLine());
-int i = 0;
+int i = 1;
 
 while (i <= num)
 {
-    Console.Write($"{Math.Pow(i, 3)} ");
+    Console.Write($"{Math.Pow(i, 3)}, ");
     i++;
 }
 
