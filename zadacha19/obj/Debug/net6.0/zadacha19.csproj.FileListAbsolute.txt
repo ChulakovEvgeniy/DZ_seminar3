@@ -1,0 +1,15 @@
+G:\Учеба Женя\DZ_seminar3\zadacha19\bin\Debug\net6.0\zadacha19.exe
+G:\Учеба Женя\DZ_seminar3\zadacha19\bin\Debug\net6.0\zadacha19.deps.json
+G:\Учеба Женя\DZ_seminar3\zadacha19\bin\Debug\net6.0\zadacha19.runtimeconfig.json
+G:\Учеба Женя\DZ_seminar3\zadacha19\bin\Debug\net6.0\zadacha19.dll
+G:\Учеба Женя\DZ_seminar3\zadacha19\bin\Debug\net6.0\zadacha19.pdb
+G:\Учеба Женя\DZ_seminar3\zadacha19\obj\Debug\net6.0\zadacha19.csproj.AssemblyReference.cache
+G:\Учеба Женя\DZ_seminar3\zadacha19\obj\Debug\net6.0\zadacha19.GeneratedMSBuildEditorConfig.editorconfig
+G:\Учеба Женя\DZ_seminar3\zadacha19\obj\Debug\net6.0\zadacha19.AssemblyInfoInputs.cache
+G:\Учеба Женя\DZ_seminar3\zadacha19\obj\Debug\net6.0\zadacha19.AssemblyInfo.cs
+G:\Учеба Женя\DZ_seminar3\zadacha19\obj\Debug\net6.0\zadacha19.csproj.CoreCompileInputs.cache
+G:\Учеба Женя\DZ_seminar3\zadacha19\obj\Debug\net6.0\zadacha19.dll
+G:\Учеба Женя\DZ_seminar3\zadacha19\obj\Debug\net6.0\refint\zadacha19.dll
+G:\Учеба Женя\DZ_seminar3\zadacha19\obj\Debug\net6.0\zadacha19.pdb
+G:\Учеба Женя\DZ_seminar3\zadacha19\obj\Debug\net6.0\zadacha19.genruntimeconfig.cache
+G:\Учеба Женя\DZ_seminar3\zadacha19\obj\Debug\net6.0\ref\zadacha19.dll
